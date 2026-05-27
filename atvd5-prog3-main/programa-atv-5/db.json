@@ -13,6 +13,13 @@
       "displayName": "",
       "photoUrl": "",
       "favoriteCca3Codes": []
+    },
+    {
+      "id": "5uPgUp6CHEA",
+      "email": "raquel@gmail.com",
+      "displayName": "",
+      "photoUrl": "",
+      "favoriteCca3Codes": []
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
