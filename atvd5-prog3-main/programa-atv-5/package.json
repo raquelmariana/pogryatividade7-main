@@ -1,0 +1,32 @@
+{
+  "name": "programa-atvd-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "api": "json-server --watch db.json --port 3001",
+    "build:web": "expo export --platform web",
+    "deploy": "npm run build:web && firebase deploy --only hosting:projetoativi7-b1e00"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.1.1",
+    "@react-navigation/native": "^7.2.1",
+    "@react-navigation/native-stack": "^7.14.9",
+    "axios": "^1.13.6",
+    "expo": "~54.0.33",
+    "expo-constants": "~18.0.13",
+    "expo-status-bar": "~3.0.9",
+    "firebase": "latest",
+    "json-server": "^1.0.0-beta.13",
+    "react": "^19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "^0.81.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0",
+    "react-native-web": "^0.21.0"
+  }
+}

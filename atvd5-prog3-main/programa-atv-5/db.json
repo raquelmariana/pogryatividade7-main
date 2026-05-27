@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "0i0LZ2Q8RXU",
+      "email": "raquel@gmail.com",
+      "displayName": "raquel",
+      "photoUrl": "",
+      "favoriteCca3Codes": []
+    },
+    {
+      "id": "F4y13N6X314",
+      "email": "raquel@gmail.com",
+      "displayName": "",
+      "photoUrl": "",
+      "favoriteCca3Codes": []
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

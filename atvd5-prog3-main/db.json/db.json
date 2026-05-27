@@ -1,0 +1,26 @@
+{
+  "Contato": [
+    {
+      "nome": "João Souza2",
+      "email": "joao.souza@example.com",
+      "telefone": "(11) 99999-2026",
+      "id": "1"
+    },
+    {
+      "nome": "Luany",
+      "email": "luany@gmail.com",
+      "telefone": "126512267127552",
+      "id": "67g-g9tQxD8"
+    }
+  ],
+  "Cadastro": [
+    {
+      "nome": "ZION",
+      "cpf": "1234456699",
+      "email": "zkk@gmail.com",
+      "senha": "1234",
+      "id": "QqNcM1MF-Yc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
